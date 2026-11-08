@@ -1,4 +1,4 @@
-# Supermercado - Benjamin Zamorano - PFY2202
+# Supermercado - PFY2202
 
 Sitio de gestion de inventario de un supermercado hecho con React, React Router y Tailwind CSS.
 
